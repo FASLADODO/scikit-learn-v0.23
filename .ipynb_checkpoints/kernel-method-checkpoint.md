@@ -1,0 +1,1 @@
+[what is a kernel method aka kernel trick (wikipedia)](https://en.wikipedia.org/wiki/Kernel_method)
