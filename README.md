@@ -40,6 +40,8 @@
 - [Gradient Boosting (Stochastic-, Histogram-)](ensembles-gradient-boosting.ipynb)
 - [Gradient Tree Boosting](ensembles-gradient-tree-boosting.ipynb)
 - [Random Forests](ensembles-random-forests.ipynb)
+- [Stacking](ensembles-stacking.ipynb)
+- [Voting Schemes](ensembles-voting.ipynb)
 
 ### **Metrics**
 - [Cross Validation Strategies](metrics-cross-validation.ipynb)
