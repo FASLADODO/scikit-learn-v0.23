@@ -30,3 +30,6 @@
 - [Latent Dirichlet Allocation (LDA)](decomposition-LDA.ipynb)
 - [Non-Negative Matrix Factorization (NNMF)](decomposition-NNMF.ipynb)
 - [Principal Component Analysis (PCA)](decomposition-PCA.ipynb)
+
+### **Density Estimation**
+- [Histograms, Kernel DE](density-estimation.ipynb)
