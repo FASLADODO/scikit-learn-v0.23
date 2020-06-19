@@ -33,3 +33,13 @@
 
 ### **Density Estimation**
 - [Histograms, Kernel DE](density-estimation.ipynb)
+
+### **Ensembles**
+- [AdaBoost](ensembles-adaboost.ipynb)
+- [Bagging](ensembles-bagging.ipynb)
+- [Gradient Boosting (Stochastic-, Histogram-)](ensembles-gradient-boosting.ipynb)
+- [Gradient Tree Boosting](ensembles-gradient-tree-boosting.ipynb)
+- [Random Forests](ensembles-random-forests.ipynb)
+
+### **Metrics**
+- [Cross Validation Strategies](metrics-cross-validation.ipynb)
