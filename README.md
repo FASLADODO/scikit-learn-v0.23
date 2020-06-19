@@ -25,3 +25,8 @@
 ### **Decomposition**
 - [Partial Least Squares, Canonical Correlation Analysis](cross-decomposition.ipynb)
 - [Dictionary Learning](decomposition-dictionary-learning.ipynb)
+- [Factor Analysis](decomposition-FA.ipynb)
+- [Independent Component Analysis (ICA)](decomposition-ICA.ipynb)
+- [Latent Dirichlet Allocation (LDA)](decomposition-LDA.ipynb)
+- [Non-Negative Matrix Factorization (NNMF)](decomposition-NNMF.ipynb)
+- [Principal Component Analysis (PCA)](decomposition-PCA.ipynb)
