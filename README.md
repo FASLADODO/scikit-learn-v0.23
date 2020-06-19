@@ -4,7 +4,6 @@
 - Initial preliminary release 2020/06/11
 - In progress.
 - Brian Piercy, @brianpiercy, bjpcjp at gmail dot com
-- 
 
 ### **Clustering**
 - [Affinity Propagation](clustering-affinity-propagation.ipynb)
@@ -17,7 +16,11 @@
 - [Optics](clustering-optics.ipynb)
 - [Spectral](clustering-spectral.ipynb)
 
-- [Covariance](covariance.ipynb)
+### **Covariance**
+- [Empirical, Shrunk](covariance.ipynb)
+
+### **Decision Trees**
+- [Classification, Regression, Multiple Outputs](decision-trees.ipynb)
 
 ### **Decomposition**
 - [Partial Least Squares, Canonical Correlation Analysis](cross-decomposition.ipynb)
