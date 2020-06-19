@@ -5,7 +5,6 @@
 - In progress.
 - Brian Piercy, @brianpiercy, bjpcjp at gmail dot com
 
-<div style="cols: 2;">
 ### **Clustering**
 - [Affinity Propagation](clustering-affinity-propagation.ipynb)
 - [BiClustering](clustering-biclustering.ipynb)
@@ -26,4 +25,3 @@
 ### **Decomposition**
 - [Partial Least Squares, Canonical Correlation Analysis](cross-decomposition.ipynb)
 - [Dictionary Learning](decomposition-dictionary-learning.ipynb)
-</div>
