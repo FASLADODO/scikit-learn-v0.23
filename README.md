@@ -13,3 +13,13 @@
 - [DBSCAN](clustering-dbscan.ipynb)
 - [Hierarchical (Agglomerative)](clustering-hierarchical.ipynb)
 - [K-means & Voronoi Diagrams](clustering-kmeans.ipynb)
+- [Mean Shift](clustering-mean-shift.ipynb)
+- [Optics](clustering-optics.ipynb)
+- [Spectral](clustering-spectral.ipynb)
+
+- [Covariance](covariance.ipynb)
+
+### **Decomposition**
+- [Partial Least Squares, Canonical Correlation Analysis](cross-decomposition.ipynb)
+- [Dictionary Learning](decomposition-dictionary-learning.ipynb)
+
