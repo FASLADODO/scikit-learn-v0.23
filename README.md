@@ -43,5 +43,13 @@
 - [Stacking](ensembles-stacking.ipynb)
 - [Voting Schemes](ensembles-voting.ipynb)
 
+### **Feature Engineering**
+- [Feature Selection](feature-selection.ipynb)
+- [Feature Transformer](feature-transformer.ipynb)
+
+### **Gaussian Models***
+- [Gaussian Models](gaussian-models.ipynb)
+- [Gaussian Mixture Models](gaussian-mixture-models.ipynb)
+
 ### **Metrics**
 - [Cross Validation Strategies](metrics-cross-validation.ipynb)
