@@ -5,6 +5,9 @@
 - In progress.
 - Brian Piercy, @brianpiercy, bjpcjp at gmail dot com
 
+### **Getting Started**
+- [Getting Started](getting-started.ipynb)
+
 ### **Clustering**
 - [Affinity Propagation](clustering-affinity-propagation.ipynb)
 - [BiClustering](clustering-biclustering.ipynb)
@@ -47,9 +50,20 @@
 - [Feature Selection](feature-selection.ipynb)
 - [Feature Transformer](feature-transformer.ipynb)
 
-### **Gaussian Models***
+### **Gaussian Models**
 - [Gaussian Models](gaussian-models.ipynb)
 - [Gaussian Mixture Models](gaussian-mixture-models.ipynb)
 
+### **Gradient Descent**
+- [Stochastic GD](gradient-descent-SGD.ipynb)
+
+### **Logistic Regression**
+- [Logistic Regression](logistic-regression.ipynb)
+
 ### **Metrics**
-- [Cross Validation Strategies](metrics-cross-validation.ipynb)
+- [Classification](metrics-classification.ipynb)
+- [Clustering](metrics-clustering.ipynb)
+- [Cross Validation](metrics-cross-validation.ipynb)
+- [Dummy Estimators](metrics-dummy-estimatores.ipynb)
+- [Multilabel Rankers](metrics-multilabel-ranking.ipynb)
+- [Regression](metrics-regression.ipynb)
