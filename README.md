@@ -47,8 +47,19 @@
 - [Voting Schemes](ensembles-voting.ipynb)
 
 ### **Feature Engineering**
-- [Feature Selection](feature-selection.ipynb)
-- [Feature Transformer](feature-transformer.ipynb)
+- [Selection](feature-selection.ipynb)
+- [Transformer](feature-transformer.ipynb)
+- [Extraction - Dicts](transforms-feature-extraction-dicts.ipynb)
+- [Extraction - Images](transforms-feature-extraction-images.ipynb)
+- [Extraction- Text](transforms-feature-extraction-text.ipynb)
+- [Hashing](transforms-feature-hashing.ipynb)
+- [Pipelines](transforms-feature-pipelines.ipynb)
+- [Unions](transforms-feature-unions.ipynb)
+- [Imputation](transforms-imputation.ipynb)
+- [Kernel Approximation](transforms-kernel-approximations.ipynb)
+- [Pairwise Utilities](transforms-pairwise-utilities.ipynb)
+- [Preprocessing](transforms-preprocessing.ipynb)
+- [Random Projections](transforms-random-projection.ipynb)
 
 ### **Gaussian Models**
 - [Gaussian Models](gaussian-models.ipynb)
@@ -81,3 +92,5 @@
 - [RANSAC, Theil-Sen, Huber](regression-RANSAC-Theil-Sen-Huber.ipynb)
 - [Ridge](regression-ridge.ipynb)
 - [Tweedie](regression-tweedie.ipynb)
+
+### **Transforms**
