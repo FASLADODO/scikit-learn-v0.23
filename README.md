@@ -67,3 +67,17 @@
 - [Dummy Estimators](metrics-dummy-estimatores.ipynb)
 - [Multilabel Rankers](metrics-multilabel-ranking.ipynb)
 - [Regression](metrics-regression.ipynb)
+
+### **Regression**
+- [Bayes](regression-Bayes.ipynb)
+- [Elastic Net](regression-elastic-net.ipynb)
+- [Isotonic](regression-isotonic.ipynb)
+- [Kernel Ridge](regression-kernel-ridge.ipynb)
+- [LARS](regression-LARS.ipynb)
+- [Lasso](regression-Lasso.ipynb)
+- [OLS](regression-OLS.ipynb)
+- [OMP](regression-OMP.ipynb)
+- [Polynomial](regression-polynomial.ipynb)
+- [RANSAC, Theil-Sen, Huber](regression-RANSAC-Theil-Sen-Huber.ipynb)
+- [Ridge](regression-ridge.ipynb)
+- [Tweedie](regression-tweedie.ipynb)
