@@ -154,9 +154,13 @@
 - [Classification](metrics-classification.ipynb)
 - [Clustering](metrics-clustering.ipynb)
 - [Cross Validation](metrics-cross-validation.ipynb)
+- [Display Objects](metrics-display-objects.ipynb)
 - [Dummy Estimators](metrics-dummy-estimatores.ipynb)
 - [Multilabel Rankers](metrics-multilabel-ranking.ipynb)
 - [Regression](metrics-regression.ipynb)
+
+### **Multiclass & Multilabel problems**
+- [tbd](multiclass-multilabel.ipynb)
 
 ### **Regression**
 - [Bayes](regression-Bayes.ipynb)
