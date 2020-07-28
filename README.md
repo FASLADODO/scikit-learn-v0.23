@@ -22,20 +22,36 @@
 ### **Covariance**
 - [Empirical, Shrunk](covariance.ipynb)
 
-### **Cross Demposition**
-- [TBD](cross-decomposition.ipynb)
-- 
 ### **Decision Trees**
 - [Classification, Regression, Multiple Outputs](decision-trees.ipynb)
 
 ### **Decomposition**
 - [Partial Least Squares, Canonical Correlation Analysis](cross-decomposition.ipynb)
 - [Dictionary Learning](decomposition-dictionary-learning.ipynb)
+    + Sparse Dicts
+    + Generic, Images, MiniBatch
+
 - [Factor Analysis](decomposition-FA.ipynb)
+    + Model Selection
+
 - [Independent Component Analysis (ICA)](decomposition-ICA.ipynb)
+    + Noise source separation
+
 - [Latent Dirichlet Allocation (LDA)](decomposition-LDA.ipynb)
+    + About
+    + Topic extraction
+
 - [Non-Negative Matrix Factorization (NNMF)](decomposition-NNMF.ipynb)
+    + About
+    + Topic extraction
+    + Beta-convergence loss functions (sqd. Frobenius, Kullback-Leibler, Itakura-Saito)
+
 - [Principal Component Analysis (PCA)](decomposition-PCA.ipynb)
+    + LDA vs PCA
+    + Incremental
+    + w/ randomized SVD
+    + Kernels (extend PCA to non-linears)
+    + Sparse
 
 ### **Density Estimation**
 - [Histograms, Kernel DE](density-estimation.ipynb)
