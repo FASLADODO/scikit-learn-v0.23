@@ -73,18 +73,14 @@
 ### **Ensembles**
 - [AdaBoost Classifier/Regressor](ensembles-adaboost.ipynb)
     + Example, DT w/ Adaboost + Multiclass Outs
-
 - [Bagging Classifier/Regressor](ensembles-bagging.ipynb)
     + Bagged vs single Estimator
-
 - [Gradient Boosting (Stochastic-, Histogram-)](ensembles-gradient-boosting.ipynb)
     + Example
     + Histogram-based (Classifiers, Regressors)
-
 - [Gradient Boosting](ensembles-gradient-tree-boosting.ipynb)
     + Example 
     + Histogram-based
-
 - [Random Forest Classifiers/Regressors](ensembles-random-forests.ipynb)
     + Example
     + Extremely Randomized Trees
@@ -92,10 +88,8 @@
     + Pixel Importances
     + Random Tree Embedding
     + Hashing Feature Transforms -- Totally Random Trees
-
 - [Stacking Classifiers/Regressors](ensembles-stacking.ipynb)
     + Example
-
 - [Voting Classifiers/Regressors](ensembles-voting.ipynb)
     + About
     + Example Soft
@@ -103,12 +97,30 @@
 
 ### **Feature Engineering**
 - [Selection](feature-selection.ipynb)
-- [Transformer](feature-transformer.ipynb)
+    + Low-Variance Removal
+    + Select: K best, Percentile, FalsePR, FalseDR, Family-wise, Configurable
+    + Recursive
+    + Select From Model
+    + L1-Based
+    + Tree-Based
+
+- [Transformers](feature-transformer.ipynb)
+    + Column-Wise (Feature-wise)
+    + HTML Viz / Jupyter notebooks
 
 ### **Gaussian Models**
 - [Gaussian Models](gaussian-models.ipynb)
-- [Gaussian Mixture Models](gaussian-mixture-models.ipynb)
-
+    + Regression (GPR)
+    + GPR vs KRR, Moana Loa CO2
+    + Classification (GPC)
+    + GPC vs Dot-Product Kernels
+    + [Kernels](https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.Kernel.html#sklearn.gaussian_process.kernels.Kernel) (aka CV functions)
+- [Gaussian Mixture Models (GMMs)](gaussian-mixture-models.ipynb)
+    + About
+    + Example
+    + Example: Model Selection
+    + Expectation Maximization (EM)
+    + Variational Bayes GMMs
 
 - [Extraction - Dicts](transforms-feature-extraction-dicts.ipynb)
 - [Extraction - Images](transforms-feature-extraction-images.ipynb)
