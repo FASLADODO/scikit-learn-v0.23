@@ -22,6 +22,8 @@
 ### **Covariance**
 - [Empirical, Shrunk](covariance.ipynb)
 
+
+
 ### **Decision Trees**
 - [Classification, Regression, Multiple Outputs](decision-trees.ipynb)
 
@@ -53,21 +55,49 @@
     + Kernels (extend PCA to non-linears)
     + Sparse
 
-### **Density Estimation**
-- [Histograms, Kernel DE](density-estimation.ipynb)
+### **Density Estimation (DE)**
+- [Histograms, Kernels, Kernel DE KDE/digits](density-estimation.ipynb)
 
 ### **Ensembles**
-- [AdaBoost](ensembles-adaboost.ipynb)
-- [Bagging](ensembles-bagging.ipynb)
+- [AdaBoost Classifier/Regressor](ensembles-adaboost.ipynb)
+    + Example, DT w/ Adaboost + Multiclass Outs
+
+- [Bagging Classifier/Regressor](ensembles-bagging.ipynb)
+    + Bagged vs single Estimator
+
 - [Gradient Boosting (Stochastic-, Histogram-)](ensembles-gradient-boosting.ipynb)
-- [Gradient Tree Boosting](ensembles-gradient-tree-boosting.ipynb)
-- [Random Forests](ensembles-random-forests.ipynb)
-- [Stacking](ensembles-stacking.ipynb)
-- [Voting Schemes](ensembles-voting.ipynb)
+    + Example
+    + Histogram-based (Classifiers, Regressors)
+
+- [Gradient Boosting](ensembles-gradient-tree-boosting.ipynb)
+    + Example 
+    + Histogram-based
+
+- [Random Forest Classifiers/Regressors](ensembles-random-forests.ipynb)
+    + Example
+    + Extremely Randomized Trees
+    + Decision Surfaces
+    + Pixel Importances
+    + Random Tree Embedding
+    + Hashing Feature Transforms -- Totally Random Trees
+
+- [Stacking Classifiers/Regressors](ensembles-stacking.ipynb)
+    + Example
+
+- [Voting Classifiers/Regressors](ensembles-voting.ipynb)
+    + About
+    + Example Soft
+    + Regressor
 
 ### **Feature Engineering**
 - [Selection](feature-selection.ipynb)
 - [Transformer](feature-transformer.ipynb)
+
+### **Gaussian Models**
+- [Gaussian Models](gaussian-models.ipynb)
+- [Gaussian Mixture Models](gaussian-mixture-models.ipynb)
+
+
 - [Extraction - Dicts](transforms-feature-extraction-dicts.ipynb)
 - [Extraction - Images](transforms-feature-extraction-images.ipynb)
 - [Extraction- Text](transforms-feature-extraction-text.ipynb)
@@ -80,12 +110,14 @@
 - [Preprocessing](transforms-preprocessing.ipynb)
 - [Random Projections](transforms-random-projection.ipynb)
 
-### **Gaussian Models**
-- [Gaussian Models](gaussian-models.ipynb)
-- [Gaussian Mixture Models](gaussian-mixture-models.ipynb)
-
 ### **Gradient Descent**
 - [Stochastic GD](gradient-descent-SGD.ipynb)
+
+### **Kernels**
+- [Kernels (Wikipedia)](https://en.wikipedia.org/wiki/Kernel_method)
+
+### **Label Spreading**
+- [About](label-spreading.ipynb)
 
 ### **Logistic Regression**
 - [Logistic Regression](logistic-regression.ipynb)
