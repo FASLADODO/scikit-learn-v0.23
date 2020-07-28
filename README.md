@@ -141,11 +141,14 @@
 ### **Kernels**
 - [Kernels (Wikipedia)](https://en.wikipedia.org/wiki/Kernel_method)
 
-### **Label Spreading**
-- [About](label-spreading.ipynb)
+### **Semi-Supervised Learning**
+- [Label Propagation](label-spreading.ipynb)
 
 ### **Logistic Regression**
 - [Logistic Regression](logistic-regression.ipynb)
+    + About; solvers (liblinear, newton-cg, lbfgs, sag, saga)
+    + L1 Penalty vs Sparsity
+    + Multinomial & OvR LR
 
 ### **Metrics**
 - [Classification](metrics-classification.ipynb)
