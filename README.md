@@ -166,9 +166,14 @@
         * Notes / Best practices
 - [Display Objects](metrics-display-objects.ipynb)
 - [Dummy Estimators](metrics-dummy-estimators.ipynb)
+    + Regressors & Classifiers
 - [Multilabel Rankers](metrics-multilabel-ranking.ipynb)
+    + Metrics
+    + Coverage Error, Average Precision, Ranking Loss, NDCG
 - [Regression](metrics-regression.ipynb)
-
+    + Metrics
+    + Explained Variance, Max Error, MAE, MSE, MSLE, MedAE, R^2, Tweedie Deviance
+    + 
 ### **Multiclass & Multilabel problems**
 - [tbd](multiclass-multilabel.ipynb)
 
