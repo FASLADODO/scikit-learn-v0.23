@@ -152,10 +152,20 @@
 
 ### **Metrics**
 - [Classification](metrics-classification.ipynb)
+    + Accuracy, Balanced Accuracy, Cohen's, Confusion Matrix, Classification Report, Hamming Loss, Precision, Recall, f-measure, Jaccard Similarity, Hinge Loss, Log Loss, Matthews Coeff, Multilabel Confusion Matrix, Receiver Operating Characteristic (ROC), ROC-AUC, Zero-One, Brier
 - [Clustering](metrics-clustering.ipynb)
+    + Adjusted Rand Index (ARI), Mutual Info Scores, Homogeneity, Completeness, V-Measure, Silhouette Coefficient, Calinski-Harabasz, Davies-Bouldin, Contingency Matrix
 - [Cross Validation](metrics-cross-validation.ipynb)
+    + Scoring
+    + IID Data Splits
+        * K-fold/Repeated/Stratified/Grouped
+        * Leave (One/P/One Group/P Groups) Out
+        * Shuffle Split/Stratified/Grouped
+        * Predefined
+        * Time Series
+        * Notes / Best practices
 - [Display Objects](metrics-display-objects.ipynb)
-- [Dummy Estimators](metrics-dummy-estimatores.ipynb)
+- [Dummy Estimators](metrics-dummy-estimators.ipynb)
 - [Multilabel Rankers](metrics-multilabel-ranking.ipynb)
 - [Regression](metrics-regression.ipynb)
 
