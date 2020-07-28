@@ -173,22 +173,33 @@
 - [Regression](metrics-regression.ipynb)
     + Metrics
     + Explained Variance, Max Error, MAE, MSE, MSLE, MedAE, R^2, Tweedie Deviance
-    + 
+
 ### **Multiclass & Multilabel problems**
-- [tbd](multiclass-multilabel.ipynb)
+- [for personal experiments](multiclass-multilabel.ipynb) (SL natively supports multiclass ops)
 
 ### **Regression**
 - [Bayes](regression-Bayes.ipynb)
-- [Elastic Net](regression-elastic-net.ipynb)
+    + About, Example, Example (Synth Dataset), Ex: Sinusoid Curve Fitting, Auto Relevance Determination (ARD)
+- [Elastic Net (EN)](regression-elastic-net.ipynb)
+    + About, Example, Multi-Task EN
 - [Isotonic](regression-isotonic.ipynb)
+    + About, Example
 - [Kernel Ridge](regression-kernel-ridge.ipynb)
-- [LARS](regression-LARS.ipynb)
+    + About, KRR vs SVR
+- [Least-Angle Regression (LARS)](regression-LARS.ipynb)
+    + About, Lasso LARS
 - [Lasso](regression-Lasso.ipynb)
-- [OLS](regression-OLS.ipynb)
-- [OMP](regression-OMP.ipynb)
-- [Polynomial](regression-polynomial.ipynb)
-- [RANSAC, Theil-Sen, Huber](regression-RANSAC-Theil-Sen-Huber.ipynb)
-- [Ridge](regression-ridge.ipynb)
+    + About, ex: Tomography Reconstruction, Multi-Regression
+- [Ordinary Least Squares (OLS)](regression-OLS.ipynb)
+    + About, Example
+- [Orthogonal Matching Pursuit (OMP)](regression-OMP.ipynb)
+    + About, Example
+- [Polynomial Regression / Basis Functions](regression-polynomial.ipynb)
+    + About, Example, Example: Function Approximation
+- [Regression Robustness (outliers)](regression-RANSAC-Theil-Sen-Huber.ipynb)
+    + About, RANSAC, Theil-Sen, Huber
+    + Example: Sinusoid Curve Fitting
+- [Ridge](regression-Ridge.ipynb)
 - [Tweedie](regression-tweedie.ipynb)
 
 ### **Transforms**
