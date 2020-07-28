@@ -177,7 +177,7 @@
 ### **Multiclass & Multilabel problems**
 - [for personal experiments](multiclass-multilabel.ipynb) (SL natively supports multiclass ops)
 
-### **Regression**
+### **Linear Problems**
 - [Bayes](regression-Bayes.ipynb)
     + About, Example, Example (Synth Dataset), Ex: Sinusoid Curve Fitting, Auto Relevance Determination (ARD)
 - [Elastic Net (EN)](regression-elastic-net.ipynb)
@@ -199,7 +199,10 @@
 - [Regression Robustness (outliers)](regression-RANSAC-Theil-Sen-Huber.ipynb)
     + About, RANSAC, Theil-Sen, Huber
     + Example: Sinusoid Curve Fitting
-- [Ridge](regression-Ridge.ipynb)
+- [Ridge (Regression, Classification)](regression-Ridge.ipynb)
+    + About, Example, Built-in CV
 - [Tweedie](regression-tweedie.ipynb)
+    + About
+    + Example (French auto liability)
 
 ### **Transforms**
