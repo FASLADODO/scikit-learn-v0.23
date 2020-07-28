@@ -29,7 +29,7 @@
     + [API](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.SpectralClustering.html#sklearn.cluster.SpectralClustering), Image Segmentation, Coins
 
 ### **Covariance (CV)**
-- [Empirical aka MLE, Shrunk](covariance.ipynb)
+- [About](covariance.ipynb)
     + Empirical
     + Shrunk
     + Optimal Shrinkages (Ledoit-Wolf, OAS)
@@ -42,7 +42,9 @@
 - [Classification, Regression, Multiple Outputs](decision-trees.ipynb)
 
 ### **Decomposition**
-- [Partial Least Squares, Canonical Correlation Analysis](cross-decomposition.ipynb)
+- [Cross Decomposition](cross-decomposition.ipynb)
+    + Partial Least Squares (PLS)
+    + Canonical Correlation Analysis (CCA)
 - [Dictionary Learning](decomposition-dictionary-learning.ipynb)
     + Sparse Dicts
     + Generic, Images, MiniBatch
@@ -107,6 +109,17 @@
 - [Transformers](feature-transformer.ipynb)
     + Column-Wise (Feature-wise)
     + HTML Viz / Jupyter notebooks
+    - [Extraction - Dicts](transforms-feature-extraction-dicts.ipynb)
+    - [Extraction - Images](transforms-feature-extraction-images.ipynb)
+    - [Extraction- Text](transforms-feature-extraction-text.ipynb)
+    - [Hashing](transforms-feature-hashing.ipynb)
+    - [Pipelines](transforms-feature-pipelines.ipynb)
+    - [Unions](transforms-feature-unions.ipynb)
+    - [Imputation](transforms-imputation.ipynb)
+    - [Kernel Approximation](transforms-kernel-approximations.ipynb)
+    - [Pairwise Utilities](transforms-pairwise-utilities.ipynb)
+    - [Preprocessing](transforms-preprocessing.ipynb)
+    - [Random Projections](transforms-random-projection.ipynb)
 
 ### **Gaussian Models**
 - [Gaussian Models](gaussian-models.ipynb)
@@ -121,18 +134,6 @@
     + Example: Model Selection
     + Expectation Maximization (EM)
     + Variational Bayes GMMs
-
-- [Extraction - Dicts](transforms-feature-extraction-dicts.ipynb)
-- [Extraction - Images](transforms-feature-extraction-images.ipynb)
-- [Extraction- Text](transforms-feature-extraction-text.ipynb)
-- [Hashing](transforms-feature-hashing.ipynb)
-- [Pipelines](transforms-feature-pipelines.ipynb)
-- [Unions](transforms-feature-unions.ipynb)
-- [Imputation](transforms-imputation.ipynb)
-- [Kernel Approximation](transforms-kernel-approximations.ipynb)
-- [Pairwise Utilities](transforms-pairwise-utilities.ipynb)
-- [Preprocessing](transforms-preprocessing.ipynb)
-- [Random Projections](transforms-random-projection.ipynb)
 
 ### **Gradient Descent**
 - [Stochastic GD](gradient-descent-SGD.ipynb)
