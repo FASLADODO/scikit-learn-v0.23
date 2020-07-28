@@ -22,7 +22,7 @@
 - [K-means & Voronoi Diagrams](clustering-kmeans.ipynb)
     + [API](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html#sklearn.cluster.KMeans), Background, Voronoi Diagrams, Minibatch
 - [Mean Shift](clustering-mean-shift.ipynb)
-    + [API]https://scikit-learn.org/stable/modules/generated/sklearn.cluster.MeanShift.html#sklearn.cluster.MeanShift
+    + [API](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.MeanShift.html#sklearn.cluster.MeanShift)
 - [Optics](clustering-optics.ipynb)
     + [API](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.OPTICS.html#sklearn.cluster.OPTICS)
 - [Spectral](clustering-spectral.ipynb)
