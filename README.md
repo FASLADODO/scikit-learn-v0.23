@@ -10,19 +10,33 @@
 
 ### **Clustering**
 - [Affinity Propagation](clustering-affinity-propagation.ipynb)
+    + About, Example
 - [BiClustering](clustering-biclustering.ipynb)
+    + About, Spectral CoClusters, 20newsgroups, Spectral BiClusters, Metrics
 - [Birch](clustering-birch.ipynb)
+    + About, vs Kmeans minibatch
 - [DBSCAN](clustering-dbscan.ipynb)
+    + [API](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html#sklearn.cluster.DBSCAN), Examples
 - [Hierarchical (Agglomerative)](clustering-hierarchical.ipynb)
+    + [API](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html#sklearn.cluster.AgglomerativeClustering)
 - [K-means & Voronoi Diagrams](clustering-kmeans.ipynb)
+    + [API](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html#sklearn.cluster.KMeans), Background, Voronoi Diagrams, Minibatch
 - [Mean Shift](clustering-mean-shift.ipynb)
+    + [API]https://scikit-learn.org/stable/modules/generated/sklearn.cluster.MeanShift.html#sklearn.cluster.MeanShift
 - [Optics](clustering-optics.ipynb)
+    + [API](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.OPTICS.html#sklearn.cluster.OPTICS)
 - [Spectral](clustering-spectral.ipynb)
+    + [API](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.SpectralClustering.html#sklearn.cluster.SpectralClustering), Image Segmentation, Coins
 
-### **Covariance**
-- [Empirical, Shrunk](covariance.ipynb)
-
-
+### **Covariance (CV)**
+- [Empirical aka MLE, Shrunk](covariance.ipynb)
+    + Empirical
+    + Shrunk
+    + Optimal Shrinkages (Ledoit-Wolf, OAS)
+    + Comparison
+    + Sparse Inverse CV (= "precision matrix")
+    + Robust CV Estimation - FastMCD
+    + Mahalanobis Distance
 
 ### **Decision Trees**
 - [Classification, Regression, Multiple Outputs](decision-trees.ipynb)
