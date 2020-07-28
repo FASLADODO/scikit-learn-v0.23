@@ -204,5 +204,3 @@
 - [Tweedie](regression-tweedie.ipynb)
     + About
     + Example (French auto liability)
-
-### **Transforms**
