@@ -22,6 +22,9 @@
 ### **Covariance**
 - [Empirical, Shrunk](covariance.ipynb)
 
+### **Cross Demposition**
+- [TBD](cross-decomposition.ipynb)
+- 
 ### **Decision Trees**
 - [Classification, Regression, Multiple Outputs](decision-trees.ipynb)
 
