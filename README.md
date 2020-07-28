@@ -105,22 +105,72 @@
     + Select From Model
     + L1-Based
     + Tree-Based
-
 - [Transformers](feature-transformer.ipynb)
     + Column-Wise (Feature-wise)
     + HTML Viz / Jupyter notebooks
-
 * [Extraction - Dicts](transforms-feature-extraction-dicts.ipynb)
+    - Example
 * [Extraction - Images](transforms-feature-extraction-images.ipynb)
+    - Patch Extraction/Reconstruction
+    - Connectivity Graphs
+    - Example: Coins (Ward Clustering)
 * [Extraction- Text](transforms-feature-extraction-text.ipynb)
+    - About
+    - Stop Words, Tf-idf, Tf-idf Vectorizer, 
+    - Text file decodes, Applications
+    - Example (Sparse Features), Example (Corpus)
+    - Example (Topic Extraction: NNMF, LDA)
+    - Bag of Words Notes
+    - The Hashing Trick
+    - Out-of-core = Minibatch
+    - Custom Vectorizers
 * [Hashing](transforms-feature-hashing.ipynb)
+    - Feature Hashing
+    - FH vs Dictionary Vectorization
 * [Pipelines](transforms-feature-pipelines.ipynb)
-* [Unions](transforms-feature-unions.ipynb)
+    - About
+    - Example: Pipelined Anova SVM
+    - Example: Text Feature Extraction/Eval
+    - Example: PCA, Logistic Regression
+    - Example: Feature Map Approximation, RBF Kernels
+    - Transformer Caching
+    - FYI: Transformers & Regressions
+    - Target Transformation (Ridge Regr with/out)
+* [Feature Unions](transforms-feature-unions.ipynb)
+    - About, Example
 * [Imputation](transforms-imputation.ipynb)
+    - About, Univariate, Multivariate, Example, Multiple vs Single, Nearest-Neighbor, Marking
 * [Kernel Approximation](transforms-kernel-approximations.ipynb)
+    - About, Nystroem Method, RBF Sampler, Classifier Decision Surfaces
+    - Additive Chi-Squared Kernel
+    - Skewed Chi-Squared Kernel
 * [Pairwise Utilities](transforms-pairwise-utilities.ipynb)
+    - About ([distances](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise_distances.html#sklearn.metrics.pairwise_distances), [kernels](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.pairwise_kernels.html#sklearn.metrics.pairwise.pairwise_kernels))
+    - Cosine Similarity
+    - Kernels
+        + Linear, Polynomial, Sigmoid, RBF, Laplace, Chi-Square
 * [Preprocessing](transforms-preprocessing.ipynb)
+    - Standarization(mean/var)
+    - Std, Min/Max, MaxAbs Scalars
+    - Quantile transforms
+    - Power transforms
+    - Uniform distribution
+    - Power transform (map to Gaussian)
+        + Yeo-Johnson transform
+        + Box-Cox transform
+    - Normalization
+    - Category Encoding
+    - One-Hot Encoding
+    - K-Bins Quantization - Example, Example2
+    - Quantizer Options (uniform, quantile, kmeans)
+    - Feature Binarization
+    - Generating Polynomials
+    - Custom Transforms
 * [Random Projections](transforms-random-projection.ipynb)
+    - About (random matrices)
+    - Johnson-Lindenstrauss lemma
+    - Gaussian
+    - Sparse
 
 ### **Gaussian Models**
 - [Gaussian Models](gaussian-models.ipynb)
