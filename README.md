@@ -46,22 +46,17 @@
 - [Dictionary Learning](decomposition-dictionary-learning.ipynb)
     + Sparse Dicts
     + Generic, Images, MiniBatch
-
 - [Factor Analysis](decomposition-FA.ipynb)
     + Model Selection
-
 - [Independent Component Analysis (ICA)](decomposition-ICA.ipynb)
     + Noise source separation
-
 - [Latent Dirichlet Allocation (LDA)](decomposition-LDA.ipynb)
     + About
     + Topic extraction
-
 - [Non-Negative Matrix Factorization (NNMF)](decomposition-NNMF.ipynb)
     + About
     + Topic extraction
     + Beta-convergence loss functions (sqd. Frobenius, Kullback-Leibler, Itakura-Saito)
-
 - [Principal Component Analysis (PCA)](decomposition-PCA.ipynb)
     + LDA vs PCA
     + Incremental
@@ -71,6 +66,9 @@
 
 ### **Density Estimation (DE)**
 - [Histograms, Kernels, Kernel DE KDE/digits](density-estimation.ipynb)
+
+### **Disciminant Analysis**
+- [Linear (LDA), Quadratic (QDA)](discriminant-analysis-LDA-QDA.ipynb)
 
 ### **Ensembles**
 - [AdaBoost Classifier/Regressor](ensembles-adaboost.ipynb)
